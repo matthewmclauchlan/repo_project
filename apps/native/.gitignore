@@ -1,0 +1,23 @@
+# Node.js dependencies
+node_modules/
+package-lock.json
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build files
+dist/
+.next/
+.out/
+
+# Expo-specific
+apps/native/.expo/
+apps/native/.expo-shared/
+
+# IDE files
+.vscode/
+.DS_Store
